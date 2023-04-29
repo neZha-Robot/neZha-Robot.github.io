@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog of neZha-Robot</title>
+  <title>Hello World</title>
   
   <subtitle>Hello World</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
