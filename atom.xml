@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-28T08:57:52.215Z</updated>
+  <updated>2023-05-29T08:27:03.415Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>拼多多策略浅析</title>
+    <link href="http://example.com/2023/05/29/%E6%8B%BC%E5%A4%9A%E5%A4%9A/"/>
+    <id>http://example.com/2023/05/29/%E6%8B%BC%E5%A4%9A%E5%A4%9A/</id>
+    <published>2023-05-29T07:44:28.518Z</published>
+    <updated>2023-05-29T08:27:03.415Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>顾客觉得占了便宜一般有两种可能：</strong></p><ol><li>真的得了便宜</li><li>“觉得”得了便宜</li></ol><p>两种可能分别对应两条技术线，且每条又有两个分叉。</p><h1 id="一、认知战"><a href="#一、认知战" class="headerlink" title="一、认知战"></a>一、认知战</h1><p>利用这个营销手段来塑造消费者对商品和服务的认知。</p><h2 id="1-正道-真补贴"><a href="#1-正道-真补贴" class="headerlink" title="1.正道-真补贴"></a>1.正道-真补贴</h2><p>百亿补贴，让消费者认为“这里买东西就是便宜”，一旦消费者把平台和“便宜”挂钩后后，无论它是否真的便宜，消费者都会默认它便宜，从而一直在上面买买买，这时候消费习惯就形成了，补贴就赚回来了。</p><p>拉新返现，支付隐形成本，还帮助企业节省了拉新成本。</p><h2 id="2-邪道-假补贴"><a href="#2-邪道-假补贴" class="headerlink" title="2.邪道-假补贴"></a>2.邪道-假补贴</h2><p>砍一刀</p><h1 id="二、真便宜"><a href="#二、真便宜" class="headerlink" title="二、真便宜"></a>二、真便宜</h1><p>低售价</p><h2 id="1-正道-提高效率"><a href="#1-正道-提高效率" class="headerlink" title="1.正道-提高效率"></a>1.正道-提高效率</h2><h2 id="2-邪道-供应链霸凌"><a href="#2-邪道-供应链霸凌" class="headerlink" title="2.邪道-供应链霸凌"></a>2.邪道-供应链霸凌</h2><p>1000家厂，我只选报价最低的，还有淘汰机制，要是还有更低的，对不起，谁低谁上。一个品类的供应商越多，报价就越低，最后的胜出者毛利就被压到极低的程度。</p><p>商品的价格被压的很低，质量就要打折扣，行之有效的策略：</p><ol><li>对消费者进行预期管理，就这个价钱还什么自行车</li><li>对消费者进行情绪管理，无理由退货，甚至退钱不退货，但是损失要有厂家来承担，甚至要罚款</li></ol><p>综上，这两条线都是殊途同归——让消费者觉得占了便宜，这样他们就能养成消费习惯。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="财经笔记，互联网公司策略" scheme="http://example.com/categories/%E8%B4%A2%E7%BB%8F%E7%AC%94%E8%AE%B0%EF%BC%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E7%AD%96%E7%95%A5/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>财经笔记--通货膨胀</title>
